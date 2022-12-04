@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: candara;
+}
+form{
+    width: 400px;
+    margin: 200px auto;
+
+}
+.image-submitter{
+    padding: 10px 10px;
+    font-size: 18px;
+    background-color: tomato;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
+.profile-img {
+	width: 200px;
+	margin: auto;
+	margin-top: 54px;
+}
+.profile-img img {
+	width: 100%;
+}
